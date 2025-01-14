@@ -1,0 +1,21 @@
+Projeto Podcast Gerado por I.A.s
+ℹ️ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+MidJourney
+ElevenLabs
+Capcut
+✨ Como foi feito ?
+Roteiro gerado via chatgpt
+Audio gerado por TTSMaker
+Capcut para tratar aúdio e adicionar sons de fundo
+📚 Materiais
+Notion Template
+Editor de aúdio
+🛠️ Instruções de execução
+Utilizei os prompts dentro do link do Notion fornecido na parte de Materiais na criação dopodcast de maneira automatizada, seguindo o passo a passo abaixo.
+
+🤖 1. Usei os prompts de roteiro no chagpt
+🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no TSMaker
+🤖 3. Usei os prompts de artes no midjourney
